@@ -1,0 +1,11 @@
+CATEGORY: name, subtitle, picture, home_order
+made by, 11 PRODUCT, 0N BRAND
+BRAND: name, footer_order
+
+is tagged as, 11 PRODUCT, 0N CATEGORY
+PRODUCT: name, description, picture, price, rate, status
+is a, 11 PRODUCT, 0N TYPE
+
+USER: email, password, role
+:
+TYPE: name, footer_order
